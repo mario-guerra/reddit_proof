@@ -1,2 +1,2 @@
 # reddit_proof
-Proof that I do in fact work for Microsoft, for the suspicious minds of Reddit
+Hi Reddit! Please accept this commit as proof that I do in fact work for Microsoft.
